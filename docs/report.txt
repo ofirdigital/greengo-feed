@@ -1,0 +1,13 @@
+built: 2026-10-14T14:04:19.662907+00:00
+source items: 263
+rows written: 263
+brand_Green Go Energy: 221
+brand_Molicel: 12
+brand_Panasonic: 12
+brand_Samsung SDI: 18
+description_fallback: 136
+image_url_encoded: 119
+out_of_stock: 44
+price_thousands_separator_fixed: 62
+variant_rows: 132
+with_real_sale_price: 79
