@@ -1,4 +1,4 @@
-built: 2026-11-25T12:58:41.732767+00:00
+built: 2026-11-25T23:38:17.975119+00:00
 source items: 263
 rows written: 263
 brand_Green Go Energy: 221
